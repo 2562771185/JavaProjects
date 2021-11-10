@@ -27,7 +27,7 @@ public class p88 {
                     res[count++] = nums1[i++];
                 }
                 else{
-                    res[count++] = nums2[j++];
+                    res[count++] = nums2[j++]; 
                 }
 
             }

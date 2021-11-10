@@ -1,13 +1,11 @@
 package 牛客;
 
-import java.sql.Array;
-import java.util.Scanner;
-
 public class Main {
+    private int c;
     public static void main(String[] args) {
-        double d1=-0.5;
-        System.out.println("Ceil d1="+Math.ceil(d1));
-        System.out.println("floor d1="+Math.floor(d1));
+
+        String str = "";
+        System.out.print(str.split(",").length);
     }
 
 }
