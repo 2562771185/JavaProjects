@@ -1,6 +1,4 @@
-package com.mjz;
-
-import org.junit.Test;
+package com.mjz.Array;
 
 /**
  * @PACKAGE_NAME: com.mjz

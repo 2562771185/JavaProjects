@@ -1,11 +1,12 @@
 package 牛客;
 
 public class Main {
-    private int c;
-    public static void main(String[] args) {
 
-        String str = "";
-        System.out.print(str.split(",").length);
+    public static void main(String[] args) {
+        String s= "213";
+        String s1= "213";
+
+        System.out.println(s == s1);
     }
 
 }

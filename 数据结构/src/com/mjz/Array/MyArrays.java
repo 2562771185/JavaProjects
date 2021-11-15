@@ -1,4 +1,4 @@
-package com.mjz;
+package com.mjz.Array;
 
 /**
  * @PACKAGE_NAME: com.mjz
