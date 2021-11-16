@@ -1,15 +1,12 @@
 package 牛客;
 
 public class Main {
-
     public static void main(String[] args) {
-        String s= "213";
-        String s1= "213";
-
-        System.out.println(s == s1);
+        System.out.println(Math.floor(-8.5));
     }
 
 }
+
 
 class Shape {
 
